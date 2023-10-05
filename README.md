@@ -6,4 +6,4 @@
 Run "yarn && yarn start" in your terminal
 
 ## Overview and roadmap
-Since the app was made asap (less in 2 hour) i don't realize pagination feature, but added an ability to add repos to favorite
+Since the app was made asap (less in 2 hour) i don't realize pagination feature, but added an ability to add repos to favorite. Note: search may work some slowly
